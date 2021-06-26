@@ -84,7 +84,12 @@ a:hover {
   margin-right: 30px;
   float: left;
 }
-
+.ai-img {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+  
 .dp {
   width: 15%;
 }
